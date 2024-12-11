@@ -1,0 +1,121 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #ddd;
+}
+
+.welcome{
+    display: flex;
+    justify-content: space-between;
+    width: 810px;
+    margin: 50px auto 15px;
+    height: 26px;
+    line-height: 26px;
+}
+
+.email-heading{
+    width: 810px;
+    margin: 24px auto;
+    padding: 12px 140px 24px;
+    background-color: #fff;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.inputbox{
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    height: 40px;
+    line-height: 38px \0;
+    padding: 0 35px 0 10px;
+    margin-bottom: 2px;
+    outline: none;
+}
+
+
+.password{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+
+.inputbox2{
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    height: 40px;
+    line-height: 38px \0;
+    padding: 0 35px 0 10px;
+    margin-bottom: 2px;
+    outline: none;
+}
+
+.submitbtn{
+    margin: 0;
+    height: 48px;
+    padding: 0 36px;
+    font-size: 14px;
+    line-height: 46px;
+    border-width: 1px;
+    margin-top: 25px;
+    width: 100%;
+    border-style: solid;
+    background-color: #f57224;
+    border-color: transparent;
+    color: #fff;
+
+}
+
+form{
+    background-color: #ffff;
+    width: 810px;
+    margin: 50px auto 15px;
+}
+
+.line{
+   display: flex;
+   width: 810px;
+   margin: 24px auto;
+   padding: 12px 140px 24px;
+
+}
+
+.line1{
+    color: #ddd;
+}
+
+.logo{
+    display: flex;
+    width: 810px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div>img{
+    height: 50px;
+    width: 90px;
+}
+
+.img-dive{
+    height: 40px;
+    border: 1px solid black;
+    width: 259px;
+    margin: 24px 15px;
+    border-radius: 7px;
+   text-align: center;
+   padding-bottom: 5px;
+}
+
+
+
+
+
+
